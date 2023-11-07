@@ -794,6 +794,13 @@ footer.sticky-bottom {
       div.abstract.hidden.open {
         border-color: var(--global-text-color);
       }
+
+      div.summary {
+        background-color: var(--global-warning-block-bg);
+        color: var(--global-warning-block-text);
+        padding: 0.1em 0.4em;
+        border-radius: 0.25em;
+      }
     }
   }
 }
@@ -1059,10 +1066,3 @@ nav[data-toggle="toc"] {
   }
 }
 
-/* Shaded text for highlight */
-.shaded-text {
-  background-color: var(--global-warning-block-bg);
-  color: var(--global-warning-block-text);
-  padding: 0.1em 0.4em;
-  border-radius: 0.25em;
-}
