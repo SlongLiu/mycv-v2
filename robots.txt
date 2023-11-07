@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://slongliu.github.io/mycv-v2/sitemap.xml
+Sitemap: http://lsl.zone/sitemap.xml
