@@ -796,9 +796,9 @@ footer.sticky-bottom {
       }
 
       div.summary {
-        background-color: var(--global-warning-block-bg);
-        color: var(--global-warning-block-text);
-        padding: 0.1em 0.4em;
+        background-color: var(--global-code-bg-color);
+        color: var(--global-hover-color);
+        padding: 0.1em 0.1em;
         border-radius: 0.25em;
       }
     }
