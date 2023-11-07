@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-11-05 00:00:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+I was awarded as the CCF-CV Rising Star Scholar 2023(CCF-CV 学术新锐学者, 3 people per year)! 
