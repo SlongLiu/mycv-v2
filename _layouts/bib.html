@@ -34,12 +34,6 @@
         <!-- Title -->
         <div class="title">{{entry.title}}</div>
         
-        <!-- Add a summary -->
-        {%- if entry.summary -%}
-        <div class="highlight hll">{{entry.summary}}</div>
-        {%- endif -%}
-          
-
         <!-- Author -->
         <div class="author">
         {% assign author_array_size = entry.author_array | size %}
@@ -143,6 +137,13 @@
           {{ entry.note | strip }}
         </div>
 
+        <!-- Add a summary -->
+        {%- if entry.summary -%}
+        <div class="shaded-text">
+          {{entry.summary}}
+        </div>
+        {%- endif -%}
+
           <!-- Links/Buttons -->
           <div class="links">
           {%- if entry.abstract %}
@@ -243,5 +244,8 @@
             {% highlight bibtex %}{{ entry.bibtex | hideCustomBibtex }}{% endhighlight %}
           </div>
           {%- endif %}
+
+
+
         </div>
       </div>

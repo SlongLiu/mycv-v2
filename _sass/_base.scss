@@ -1058,3 +1058,11 @@ nav[data-toggle="toc"] {
     padding-top: 0.5rem;
   }
 }
+
+/* Shaded text for highlight */
+.shaded-text {
+  background-color: var(--global-warning-block-bg);
+  color: var(--global-warning-block-text);
+  padding: 0.1em 0.4em;
+  border-radius: 0.25em;
+}
