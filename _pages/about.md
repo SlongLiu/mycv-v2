@@ -14,7 +14,7 @@ profile:
   #   <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
@@ -26,3 +26,5 @@ I am an intern of computer vision at [International Digital Economy Academy (IDE
 I was a summer intern at [Microsoft Research, Redmond]() in June to Septemeber, under the supervision of [Dr. Chunyuan Li](https://chunyuan.li/) and [Dr. Hao Cheng](https://sites.google.com/site/hcheng2site). I have a close coorpation with [Dr. Jianwei Yang](https://jwyang.github.io/) as well.
 
 My research interest includes computer vision, object detection, and multi-modal learning.
+
+Contact me with my email: slongliu86 AT gmail.com or liusl20 AT mails.tsinghua.edu.cn
