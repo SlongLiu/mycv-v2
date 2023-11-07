@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+# subtitle: PhD Candidate at <a href='https://www.tsinghua.edu.cn/en/'>Tsinghua University</a>. 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_sl.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  # more_info: >
+  #   <p>555 your office number</p>
+  #   <p>123 your address street</p>
+  #   <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -19,8 +19,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm a `ceil(now() - 2020.9)`th year Ph.D. candidate at the [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/publish/csen/index.html), [Tsinghua University](https://www.tsinghua.edu.cn/en/), under the supervision of [Prof. Lei Zhang](https://www.leizhang.org/), [Prof. Hang Su](https://www.suhangss.me/), and [Prof. Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml). I got my bachelor's degree from the [Department of Industrial Engineering](http://www.ie.tsinghua.edu.cn/eng/), [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2020.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am an intern of computer vision at [International Digital Economy Academy (IDEA)](https://idea.edu.cn/), under the supervision of [Prof. Lei Zhang](https://www.leizhang.org/). 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I was a summer intern at [Microsoft Research, Redmond]() in June to Septemeber, under the supervision of [Dr. Chunyuan Li](https://chunyuan.li/) and [Dr. Hao Cheng](https://sites.google.com/site/hcheng2site). I have a close coorpation with [Dr. Jianwei Yang](https://jwyang.github.io/) as well.
+
+My research interest includes computer vision, object detection, and multi-modal learning.
