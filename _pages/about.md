@@ -23,7 +23,7 @@ I'm a `ceil(now() - 2020.9)`th year Ph.D. candidate at the [Department of Comput
 
 I am an intern of computer vision at [International Digital Economy Academy (IDEA)](https://idea.edu.cn/), under the supervision of [Prof. Lei Zhang](https://www.leizhang.org/). 
 
-I was a summer intern at [Microsoft Research, Redmond]() in June to Septemeber 2023, under the supervision of Dr. [Chunyuan Li](https://chunyuan.li/) and Dr. [Hao Cheng](https://sites.google.com/site/hcheng2site). I have a close coorpation with Dr. [Jianwei Yang](https://jwyang.github.io/) as well.
+I was a summer intern at [Microsoft Research, Redmond]() in June to Septemeber 2023, under the supervision of Dr. [Chunyuan Li](https://chunyuan.li/) and Dr. [Hao Cheng](https://sites.google.com/site/hcheng2site). I have a close cooperation with Dr. [Jianwei Yang](https://jwyang.github.io/) as well.
 
 My research interest includes computer vision, object detection, and multi-modal learning.
 
