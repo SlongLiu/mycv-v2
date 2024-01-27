@@ -22,8 +22,10 @@ Hi! This is Shilong Liu, 刘世隆 in Chinese. I'm a `ceil(now() - 2020.9)`th ye
 
 I am an intern of computer vision at [International Digital Economy Academy (IDEA)](https://idea.edu.cn/), under the supervision of [Prof. Lei Zhang](https://www.leizhang.org/). 
 
-I was a summer intern at [Microsoft Research, Redmond]() in June to Septemeber 2023, under the supervision of Dr. [Chunyuan Li](https://chunyuan.li/) and Dr. [Hao Cheng](https://sites.google.com/site/hcheng2site). I have a close cooperation with Dr. [Jianwei Yang](https://jwyang.github.io/) as well.
+I was a summer intern at [Microsoft Research, Redmond]() in June to Septemeber 2023, under the supervision of Dr. [Chunyuan Li](https://chunyuan.li/) and Dr. [Hao Cheng](https://sites.google.com/site/hcheng2site). I have a close collaboration with Dr. [Jianwei Yang](https://jwyang.github.io/) as well.
 
 My research interest includes computer vision, object detection, and multi-modal learning.
 
 Contact me with my email: slongliu86 AT gmail.com or liusl20 AT mails.tsinghua.edu.cn
+
+[Google Scholar](https://scholar.google.com/citations?user=nkSVY3MAAAAJ&hl=en) | [Twitter](https://twitter.com/atasteoff) | [Zhihu 知乎](https://www.zhihu.com/people/3089892) 
