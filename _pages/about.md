@@ -28,4 +28,4 @@ My research interest includes computer vision, object detection, and multi-modal
 
 Contact me with my email: slongliu86 AT gmail.com or liusl20 AT mails.tsinghua.edu.cn
 
-[Google Scholar](https://scholar.google.com/citations?user=nkSVY3MAAAAJ&hl=en) | [Twitter](https://twitter.com/atasteoff) | [Zhihu 知乎](https://www.zhihu.com/people/3089892) 
+[Google Scholar](https://scholar.google.com/citations?user=nkSVY3MAAAAJ&hl=en) | [GitHub](https://github.com/SlongLiu) | [Twitter](https://twitter.com/atasteoff) | [Zhihu 知乎](https://www.zhihu.com/people/3089892)
