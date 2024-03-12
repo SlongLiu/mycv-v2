@@ -179,7 +179,10 @@
             <a href="{{ entry.code }}" class="btn btn-sm z-depth-0" role="button">Code</a>
           {%- endif %}
           {%- if entry.codebadge %}
-            <a><img alt="GitHub Repo stars" src="{{ entry.codebadge }}"> </a>
+            {% set badges = entry.codebadge.split(',') %}
+            {% for badge in badges %}
+              <a href="{{ badge|trim }}"><img alt="GitHub Repo stars" src="{{ badge|trim }}"> </a>
+            {% endfor %}
           {%- endif %}
           {%- if entry.poster %}
             {% if entry.poster contains '://' -%}
