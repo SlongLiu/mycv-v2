@@ -5,21 +5,7 @@
     "image": "",
     "email": "slongliu86@gmail.com",
     "url": "https://www.lsl.zone",
-    "summary": "PhD student at Tsinghua University, working on computer",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "summary": "PhD student at Tsinghua University, working on computer vision, visual perception, and multimodal learning."
   },
   "work": [
     {

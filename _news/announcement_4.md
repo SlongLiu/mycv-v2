@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Invited talks at [HPC-AI Lab National University of Singapore](https://ai.comp.nus.edu.sg/), [Institute for Al Industry Research (AIR), Tsinghua University](https://air.tsinghua.edu.cn/en/), and [VALSE Student Webinar](http://valser.org/article-667-1.html). 
+Invited talks at [Institute for Al Industry Research (AIR), Tsinghua University](https://air.tsinghua.edu.cn/en/), [HPC-AI Lab National University of Singapore](https://ai.comp.nus.edu.sg/), [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/english/) at [Renmin University of China (RUC)](https://en.ruc.edu.cn/), and [VALSE Student Webinar](http://valser.org/article-667-1.html). 
