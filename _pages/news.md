@@ -2,6 +2,6 @@
 layout: news
 permalink: /news/
 title: news
-nav: false
+nav: true
 nav_order: 3
 ---
