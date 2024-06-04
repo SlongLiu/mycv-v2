@@ -28,4 +28,10 @@ My research interest includes computer vision, object detection, and multi-modal
 
 Contact me with my email: slongliu86 AT gmail.com or liusl20 AT mails.tsinghua.edu.cn
 
-[Google Scholar](https://scholar.google.com/citations?user=nkSVY3MAAAAJ&hl=en) | [GitHub](https://github.com/SlongLiu) | [Twitter](https://twitter.com/atasteoff) | [Zhihu 知乎](https://www.zhihu.com/people/3089892)
+<div class="summary" style="font-weight: bold; font-size: larger;">
+  I expect to graduate at June 2025. I am opening to both academic positions and industrial research positions. <a href="https://github.com/SlongLiu/mycv-v2/releases/download/CV/cv-ShilongLiu-20240603.pdf" rel="external nofollow noopener" target="_blank">Download my CV.</a>
+</div>
+
+[Google Scholar](https://scholar.google.com/citations?user=nkSVY3MAAAAJ&hl=en) | [GitHub](https://github.com/SlongLiu) | [Twitter](https://twitter.com/atasteoff) | [Zhihu 知乎](https://www.zhihu.com/people/3089892) | [my CV](https://github.com/SlongLiu/mycv-v2/releases/download/CV/cv-ShilongLiu-20240603.pdf) 
+
+
