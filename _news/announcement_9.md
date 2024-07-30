@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Start my internship at NVIDIA, collabration with Guilin Liu and Zhiding Yu. See you at the Bay Area.
+Start my internship at NVIDIA, collabrating with [Guilin Liu](https://liuguilin1225.github.io/) and [Zhiding Yu](https://chrisding.github.io/). See you at the Bay Area.
