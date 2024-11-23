@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I was awarded as the [2024 WAIC Yunfan Award -- Rising Star](https://www.thegaiaa.org/en/awards_mrzx#mrzx). [News](https://www.jiqizhixin.com/articles/2024-05-24-4)
+I was awarded as the [2024 WAIC Yunfan Award -- Rising Star](https://www.thegaiaa.org/en/awards_mrzx#mrzx). \[[News](https://www.jiqizhixin.com/articles/2024-05-24-4)\]
