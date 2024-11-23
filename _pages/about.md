@@ -32,7 +32,7 @@ My previous work focused on computer vision, particularly object detection and m
 
 
 <div class="summary" style="font-weight: bold; font-size: larger;">
-  I expect to graduate at June 2025. I am opening to both academic positions and industrial research positions. <a href="https://github.com/SlongLiu/mycv-v2/releases/download/CV/cv-ShilongLiu-20240603.pdf" rel="external nofollow noopener" target="_blank">Download my CV.</a>
+  I expect to graduate at June 2025. I am opening to both academic positions and industrial research positions. <a href="https://drive.google.com/file/d/1oxb-vADJiA-spvOXSK-l66AwmGOK1Stc/view?usp=sharing" rel="external nofollow noopener" target="_blank">Download my CV.</a>
 </div>
 
 Contact me with my email: slongliu86 AT gmail.com or liusl20 AT mails.tsinghua.edu.cn
