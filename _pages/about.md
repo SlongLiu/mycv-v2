@@ -18,11 +18,11 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Hi! This is Shilong Liu (刘世隆). I'm a `ceil(now() - 2020.9)`th year Ph.D. candidate at the [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/publish/csen/index.html), [Tsinghua University](https://www.tsinghua.edu.cn/en/), under the supervision of Prof. [Lei Zhang](https://www.leizhang.org/), Prof. [Hang Su](https://www.suhangss.me/), and Prof. [Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml). I got my bachelor's degree from the [Department of Industrial Engineering](http://www.ie.tsinghua.edu.cn/eng/), [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2020. 
+Hi! This is Shilong Liu (刘世隆). I am a [Research Scientist](https://seed.bytedance.com/en/topseed) at [Bytedance Seed](https://seed.bytedance.com/en/).
 
-I am a [Top Seed](https://seed.bytedance.com/en/topseed) intern at [Bytedance Seed](https://seed.bytedance.com/en/).
+I obtained my PhD from the [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/publish/csen/index.html), [Tsinghua University](https://www.tsinghua.edu.cn/en/), under the supervision of Prof. [Lei Zhang](https://www.leizhang.org/), Prof. [Hang Su](https://www.suhangss.me/), and Prof. [Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml). I got my bachelor's degree from the [Department of Industrial Engineering](http://www.ie.tsinghua.edu.cn/eng/), [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2020. 
 
-During most of my PhD years, I had the opportunity to intern at the  [International Digital Economy Academy (IDEA)](https://idea.edu.cn/), under the supervision of [Prof. Lei Zhang](https://www.leizhang.org/). I was an intern at NVIDIA and Microsoft Research, where I was fortunate to collaborate with talented researchers including [Guilin Liu](https://liuguilin1225.github.io/), [Zhiding Yu](https://chrisding.github.io/), [Chunyuan Li](https://chunyuan.li/), [Hao Cheng](https://sites.google.com/site/hcheng2site), and [Jianwei Yang](https://jwyang.github.io/).
+During most of my PhD years, I had the opportunity to intern at the  [International Digital Economy Academy (IDEA)](https://idea.edu.cn/), under the supervision of [Prof. Lei Zhang](https://www.leizhang.org/). I was an intern at Bytedance, NVIDIA, Shengshu-tech, and Microsoft Research, where I was fortunate to collaborate with talented researchers including [Guilin Liu](https://liuguilin1225.github.io/), [Zhiding Yu](https://chrisding.github.io/), [Chunyuan Li](https://chunyuan.li/), [Hao Cheng](https://sites.google.com/site/hcheng2site), and [Jianwei Yang](https://jwyang.github.io/).
 
 My previous work focused on computer vision, multi-modal learning, and LLM agents. Here are some of my representative works:
 
