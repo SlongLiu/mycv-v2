@@ -18,7 +18,7 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Hi! This is Shilong Liu (刘世隆). I am a [Research Scientist](https://seed.bytedance.com/en/topseed) at [Bytedance Seed](https://seed.bytedance.com/en/).
+Hi! This is Shilong Liu (刘世隆). I am a [Research Scientist](https://seed.bytedance.com/en/topseed) at [Bytedance Seed](https://seed.bytedance.com/en/). I am an incoming postdoc at [Priceton University AI Lab](https://ai.princeton.edu/ai-lab), working with [Prof. Mengdi Wang](https://ece.princeton.edu/people/mengdi-wang).
 
 I obtained my PhD from the [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/publish/csen/index.html), [Tsinghua University](https://www.tsinghua.edu.cn/en/), under the supervision of Prof. [Lei Zhang](https://www.leizhang.org/), Prof. [Hang Su](https://www.suhangss.me/), and Prof. [Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml). I got my bachelor's degree from the [Department of Industrial Engineering](http://www.ie.tsinghua.edu.cn/eng/), [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2020. 
 
