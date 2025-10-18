@@ -56,8 +56,6 @@ My research lies at the intersection of **LLM Agents**, **Multimodal Learning**,
 - 11,000+ Google Scholar citations  
 - 30,000+ GitHub stars  
 - 4 papers selected as *Top 15 Most Influential Papers* by Paper Digest  
-- (Co-)Supervised over 5 students publishing at top-tier venues  
-- Open-sourced models adopted by major universities and companies worldwide  
 
 ---
 
