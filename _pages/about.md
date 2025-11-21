@@ -31,6 +31,12 @@ My research lies at the intersection of **LLM Agents**, **Multimodal Learning**,
 
 ---
 
+### 🚀 Work With Me
+
+Looking for collaborations and self-motivated interns excited about agent and multimodal AI research. Contact me with my email: [slongliu86@gmail.com](slongliu86@gmail.com) and [sl8264@princeton.edu](sl8264@princeton.edu).
+
+---
+
 ### 🔬 Representative Works
 
 - **Visual Perception & DETR Evolution**  
