@@ -51,9 +51,9 @@ Looking for collaborations and self-motivated interns excited about multimodal A
   - We proposed [Avenir-Web](https://arxiv.org/abs/2602.02468), the **SOTA open-source web agent** on the [Online-Mind2Web](https://arxiv.org/abs/2504.01382) benchmark, with [code](https://github.com/Princeton-AI2-Lab/Avenir-Web) available.  
   - We proposed [CubeBench and CubeAgent](https://arxiv.org/abs/2512.23328), exploring multimodal AI agents for Rubik's Cube solving and challenging their world modeling and spatial reasoning capabilities.  
   - We also proposed [MMedAgents](https://arxiv.org/abs/2311.10537) and [AMS-IO-Agent](https://arxiv.org/abs/2512.21613) to extend agent systems to medical reasoning and chip designs.
-
-- **World Modeling**
-  We proposed [Web World Models](https://arxiv.org/abs/2512.23676), which decouple world states from content through web code, enabling the creation of unlimited, personalized, and controllable web pages.
+  
+- **World Models & Generative Models**  
+  We proposed [Web World Models](https://arxiv.org/abs/2512.23676), which decouple world states from content through web code, enabling the creation of unlimited, personalized, and controllable web pages. I contributed to the first version of [Vidu](https://arxiv.org/abs/2405.04233) as well, a general video generation model that has since grown into [a leading video-generation company](https://www.vidu.com/).
   
 
 ---
