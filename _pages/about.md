@@ -75,9 +75,9 @@ Looking for collaborations and self-motivated interns excited about multimodal A
 ---
 
 If you are interested in multimodal AI/agents research and their real-world applications, feel free to reach out at:  
-📧 slongliu86 [AT] gmail.com or shilong.liu [AT] princeton.edu  
+📧 slongliu86 [AT] gmail.com or shilong.liu [AT] princeton.edu   
 *(Note: the Tsinghua email is deprecated; please use Gmail or Princeton email instead.)*
 
 Feel free to add me on WeChat: SLONG_88 (please include a short self-introduction).
 
-[Google Scholar](https://scholar.google.com/citations?user=nkSVY3MAAAAJ&hl=en) | [GitHub](https://github.com/SlongLiu) | [LinkedIn](https://www.linkedin.com/in/shilong-liu/) | [Twitter](https://twitter.com/atasteoff) | [Zhihu 知乎](https://www.zhihu.com/people/3089892) | [CV (01-2026)]({{ '/assets/pdf/Shilong_CV_01_2026.pdf' | relative_url }})
+[Google Scholar](https://scholar.google.com/citations?user=nkSVY3MAAAAJ&hl=en) \| [GitHub](https://github.com/SlongLiu) \| [LinkedIn](https://www.linkedin.com/in/shilong-liu/) \| [X/Twitter](https://twitter.com/atasteoff) \| [Zhihu 知乎](https://www.zhihu.com/people/3089892) \| [RedNote 小红书](https://xhslink.com/m/4kbbZGbxlvP) \| [CV (01-2026)]({{ '/assets/pdf/Shilong_CV_01_2026.pdf' | relative_url }})
