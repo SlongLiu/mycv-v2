@@ -112,6 +112,31 @@ blockquote {
   }
 }
 
+.join-announcement {
+  margin: 1.25rem 0 1.5rem;
+  padding: 1rem 1.15rem;
+  border: 1px solid rgba(88, 109, 221, 0.18);
+  border-left: 4px solid var(--global-theme-color);
+  border-radius: 8px;
+  background: linear-gradient(135deg, rgba(88, 109, 221, 0.08), rgba(66, 185, 131, 0.08));
+  box-shadow: 0 10px 26px rgba(0, 0, 0, 0.08);
+  color: var(--global-text-color);
+  font-size: 1.12rem;
+  line-height: 1.65;
+
+  a {
+    font-weight: 600;
+  }
+}
+
+html[data-theme='dark'] {
+  .join-announcement {
+    border-color: rgba(122, 224, 255, 0.2);
+    background: linear-gradient(135deg, rgba(122, 224, 255, 0.12), rgba(66, 185, 131, 0.1));
+    box-shadow: 0 10px 28px rgba(0, 0, 0, 0.35);
+  }
+}
+
 // Math
 
 .equation {
@@ -1065,4 +1090,3 @@ nav[data-toggle="toc"] {
     padding-top: 0.5rem;
   }
 }
-
