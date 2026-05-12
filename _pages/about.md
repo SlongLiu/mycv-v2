@@ -18,7 +18,7 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Hi! This is Shilong Liu (刘世隆). I am a **Postdoctoral Research Fellow (AI^2 Fellow)** at the [Princeton AI Lab](https://ai.princeton.edu/ai-lab), [Princeton University](https://www.princeton.edu/), under the supervision of [Prof. Mengdi Wang](https://ece.princeton.edu/people/mengdi-wang). 
+Hi! This is Shilong Liu (刘世隆). I am a Postdoctoral Research Fellow (AI^2 Fellow) at the [Princeton AI Lab](https://ai.princeton.edu/ai-lab), [Princeton University](https://www.princeton.edu/), under the supervision of [Prof. Mengdi Wang](https://ece.princeton.edu/people/mengdi-wang). 
 
 <div class="join-announcement">
   <p>I will join the <a href="https://www.ee.columbia.edu/electrical-engineering-department">Department of Electrical Engineering</a>, <a href="https://www.columbia.edu/">Columbia University</a>, <a href="https://www.engineering.columbia.edu/">Fu Foundation School of Engineering and Applied Science</a>, as a tenure-track Assistant Professor in Fall 2027. My research will focus primarily on computer vision, self-evolving agents, and world models for embodied AI.</p>
