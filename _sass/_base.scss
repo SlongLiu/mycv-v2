@@ -125,6 +125,14 @@ blockquote {
   color: var(--global-text-color);
   font-size: 1.08rem;
   line-height: 1.65;
+
+  p {
+    margin-bottom: 0.75rem;
+  }
+
+  p:last-child {
+    margin-bottom: 0;
+  }
 }
 
 html[data-theme='dark'] {
