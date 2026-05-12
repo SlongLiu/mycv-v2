@@ -143,6 +143,18 @@ html[data-theme='dark'] {
   }
 }
 
+.inline-school-logo {
+  display: inline-block;
+  width: auto;
+  height: 1.08em;
+  margin-left: 0.25rem;
+  vertical-align: -0.16em;
+}
+
+.inline-school-logo-wide {
+  height: 0.95em;
+}
+
 // Math
 
 .equation {
