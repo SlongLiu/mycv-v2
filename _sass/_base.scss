@@ -112,16 +112,83 @@ blockquote {
   }
 }
 
+.intro-card {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 160px;
+  gap: 1.5rem;
+  align-items: center;
+  margin: 1.25rem 0 1.5rem;
+  padding: 1.35rem;
+  border: 1px solid rgba(88, 109, 221, 0.18);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.58);
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.08);
+}
+
+.intro-card-content {
+  min-width: 0;
+}
+
+.intro-card-name {
+  margin-bottom: 0.9rem;
+  color: var(--global-text-color);
+  font-size: 1.55rem;
+  font-weight: 700;
+  line-height: 1.2;
+
+  span {
+    font-weight: 500;
+  }
+}
+
+.intro-card-line {
+  display: grid;
+  grid-template-columns: 7.25rem minmax(0, 1fr);
+  gap: 0.75rem;
+  align-items: baseline;
+  margin-bottom: 0.55rem;
+  line-height: 1.45;
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+
+  span:last-child {
+    min-width: 0;
+    overflow-wrap: anywhere;
+  }
+}
+
+.intro-card-label {
+  color: var(--global-theme-color);
+  font-size: 0.82rem;
+  font-weight: 700;
+  letter-spacing: 0;
+  text-transform: uppercase;
+}
+
+.intro-card-photo {
+  justify-self: end;
+
+  img {
+    display: block;
+    width: 160px;
+    aspect-ratio: 1;
+    border-radius: 8px;
+    object-fit: cover;
+    box-shadow: 0 10px 24px rgba(0, 0, 0, 0.18);
+  }
+}
+
 .join-announcement {
   display: block;
   overflow: hidden;
   margin: 1.6rem 0 2rem;
-  padding: 1.25rem 1.35rem;
-  border: 1px solid rgba(88, 109, 221, 0.24);
-  border-left: 5px solid var(--global-theme-color);
+  padding: 1.35rem;
+  border: 1px solid rgba(88, 109, 221, 0.18);
   border-radius: 8px;
-  background: linear-gradient(135deg, rgba(88, 109, 221, 0.14), rgba(66, 185, 131, 0.11));
-  box-shadow: 0 14px 34px rgba(0, 0, 0, 0.14);
+  background: rgba(255, 255, 255, 0.58);
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.08);
   color: var(--global-text-color);
   font-size: 1.08rem;
   line-height: 1.65;
@@ -136,10 +203,39 @@ blockquote {
 }
 
 html[data-theme='dark'] {
+  .intro-card {
+    border-color: rgba(122, 224, 255, 0.22);
+    background: rgba(255, 255, 255, 0.04);
+    box-shadow: 0 16px 36px rgba(0, 0, 0, 0.38);
+  }
+
   .join-announcement {
-    border-color: rgba(122, 224, 255, 0.28);
-    background: linear-gradient(135deg, rgba(122, 224, 255, 0.16), rgba(66, 185, 131, 0.12));
-    box-shadow: 0 16px 38px rgba(0, 0, 0, 0.48);
+    border-color: rgba(122, 224, 255, 0.22);
+    background: rgba(255, 255, 255, 0.04);
+    box-shadow: 0 16px 36px rgba(0, 0, 0, 0.38);
+  }
+}
+
+@media (max-width: 575px) {
+  .intro-card {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+    padding: 1.15rem;
+  }
+
+  .intro-card-photo {
+    justify-self: start;
+    order: -1;
+
+    img {
+      width: 128px;
+    }
+  }
+
+  .intro-card-line {
+    grid-template-columns: 1fr;
+    gap: 0.1rem;
+    margin-bottom: 0.75rem;
   }
 }
 

@@ -4,44 +4,69 @@ title: about
 permalink: /
 # subtitle: PhD Candidate at <a href='https://www.tsinghua.edu.cn/en/'>Tsinghua University</a>. 
 
-profile:
-  align: right
-  image: me.jpg
-  image_circular: false # crops the image to make it circular
-  # more_info: >
-  #   <p>555 your office number</p>
-  #   <p>123 your address street</p>
-  #   <p>Your City, State 12345</p>
+# profile:
+#   align: right
+#   image: me.jpg
+#   image_circular: false # crops the image to make it circular
+#   # more_info: >
+#   #   <p>555 your office number</p>
+#   #   <p>123 your address street</p>
+#   #   <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Hi! This is Shilong Liu (刘世隆). I am a Postdoctoral Research Fellow (AI^2 Fellow) at the [Princeton AI Lab](https://ai.princeton.edu/ai-lab), [Princeton University](https://www.princeton.edu/)<img class="inline-school-logo" src="{{ '/assets/img/school_logos/princeton-icon.png' | relative_url }}" alt="" aria-hidden="true">, under the supervision of [Prof. Mengdi Wang](https://ece.princeton.edu/people/mengdi-wang). 
-
-<div class="join-announcement">
-  <p>I will join the <a href="https://www.ee.columbia.edu/electrical-engineering-department">Department of Electrical Engineering</a>, <a href="https://www.columbia.edu/">Columbia University</a><img class="inline-school-logo inline-school-logo-columbia" src="{{ '/assets/img/school_logos/columbia-crown.png' | relative_url }}" alt="" aria-hidden="true">, <a href="https://www.engineering.columbia.edu/">Fu Foundation School of Engineering and Applied Science</a>, as a tenure-track Assistant Professor in Fall 2027. My research will focus primarily on computer vision, self-evolving agents, and world models for embodied AI.</p>
-  <p>I am recruiting PhD students, postdocs, and interns. If you are interested, please contact me at <a href="mailto:slongliu86@gmail.com">slongliu86@gmail.com</a> or <a href="mailto:shilong.liu@princeton.edu">shilong.liu@princeton.edu</a>.</p>
+<div class="intro-card">
+  <div class="intro-card-content">
+    <div class="intro-card-name">Shilong Liu <span>刘世隆</span></div>
+    <div class="intro-card-line">
+      <span class="intro-card-label">Postdoc</span>
+      <span>Postdoctoral Research Fellow (AI<sup>2</sup> Fellow), <a href="https://ai.princeton.edu/ai-lab">Princeton AI Lab</a>, <a href="https://www.princeton.edu/">Princeton University</a><img class="inline-school-logo" src="{{ '/assets/img/school_logos/princeton-icon.png' | relative_url }}" alt="" aria-hidden="true"></span>
+    </div>
+    <div class="intro-card-line">
+      <span class="intro-card-label">Incoming AP</span>
+      <span>Tenure-track Assistant Professor, <a href="https://www.ee.columbia.edu/electrical-engineering-department">Department of Electrical Engineering</a>, <a href="https://www.columbia.edu/">Columbia University</a><img class="inline-school-logo inline-school-logo-columbia" src="{{ '/assets/img/school_logos/columbia-crown.png' | relative_url }}" alt="" aria-hidden="true">, <a href="https://www.engineering.columbia.edu/">Fu Foundation School of Engineering and Applied Science</a>, Fall 2027</span>
+    </div>
+    <div class="intro-card-line">
+      <span class="intro-card-label">Email</span>
+      <span><a href="mailto:slongliu86@gmail.com">slongliu86@gmail.com</a>; <a href="mailto:shilong.liu@princeton.edu">shilong.liu@princeton.edu</a></span>
+    </div>
+  </div>
+  <div class="intro-card-photo">
+    <img src="{{ '/assets/img/me.jpg' | relative_url }}" alt="Shilong Liu">
+  </div>
 </div>
 
-I obtained my Ph.D. from the [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/publish/csen/index.html), [Tsinghua University](https://www.tsinghua.edu.cn/en/)<img class="inline-school-logo" src="{{ '/assets/img/school_logos/tsinghua-logo.svg' | relative_url }}" alt="" aria-hidden="true">, under the supervision of Prof. [Lei Zhang](https://www.leizhang.org/) (at [IDEA Research](https://www.linkedin.com/company/idearesearch/)), Prof. [Hang Su](https://www.suhangss.me/), and Prof. [Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml). I received my B.Eng. degree from the [Department of Industrial Engineering](http://www.ie.tsinghua.edu.cn/eng/), Tsinghua University, in 2020.
+<div class="join-announcement">
+  <p>My research will focus primarily on computer vision, self-evolving agents, and world models for embodied AI.</p>
+  <p><strong>Prospective PhD students:</strong> I plan to recruit PhD students starting in Fall 2027. Please apply to the Columbia EE PhD program through the <a href="https://www.engineering.columbia.edu/admissions-aid/graduate-admissions/how-apply">official graduate admissions portal</a> by Dec 15 2026.</p>
+  <p><strong>Remote interns and postdocs:</strong> Please contact me at <a href="mailto:slongliu86@gmail.com">slongliu86@gmail.com</a> and <a href="mailto:shilong.liu@princeton.edu">shilong.liu@princeton.edu</a>, with the email subject line beginning with <code>[Internship Application]</code> or <code>[Postdoc Application]</code>.</p>
+</div>
 
-Before joining Princeton, I worked and interned at leading research labs, including [Bytedance Seed](https://seed.bytedance.com/en/), [NVIDIA Research](https://research.nvidia.com/), [Microsoft Research in Redmond](https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/), and [IDEA Research](https://idea.edu.cn/), working with amazing mentors and researchers such as [Dr. Zhiding Yu](https://chrisding.github.io/), [Dr. Chunyuan Li](https://chunyuan.li/), [Dr. Guilin Liu](https://liuguilin1225.github.io/), [Dr. Hao Cheng](https://sites.google.com/site/hcheng2site), [Dr. Jianwei Yang](https://jwyang.github.io/), and [Prof. Harry Heung-Yeung Shum](https://www.linkedin.com/in/harryshum/).
+Hi! This is Shilong Liu. I am a Postdoctoral Research Fellow (AI^2 Fellow) at the [Princeton AI Lab](https://ai.princeton.edu/ai-lab), [Princeton University](https://www.princeton.edu/)<img class="inline-school-logo" src="{{ '/assets/img/school_logos/princeton-icon.png' | relative_url }}" alt="" aria-hidden="true">, under the supervision of [Prof. Mengdi Wang](https://ece.princeton.edu/people/mengdi-wang). I will join the [Department of Electrical Engineering](https://www.ee.columbia.edu/electrical-engineering-department) at [Columbia University](https://www.columbia.edu/)<img class="inline-school-logo inline-school-logo-columbia" src="{{ '/assets/img/school_logos/columbia-crown.png' | relative_url }}" alt="" aria-hidden="true">, [Fu Foundation School of Engineering and Applied Science](https://www.engineering.columbia.edu/), as a tenure-track Assistant Professor in Fall 2027.
 
+Before joining Princeton, I worked and interned at leading research labs, including [Bytedance Seed](https://seed.bytedance.com/en/), [NVIDIA Research](https://research.nvidia.com/), [Microsoft Research in Redmond](https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/), and [IDEA Research](https://idea.edu.cn/), working with amazing mentors and researchers such as [Dr. Zhiding Yu](https://chrisding.github.io/), [Dr. Chunyuan Li](https://chunyuan.li/), [Dr. Guilin Liu](https://liuguilin1225.github.io/), [Dr. Hao Cheng](https://sites.google.com/site/hcheng2site), [Dr. Jianwei Yang](https://jwyang.github.io/), and [Prof. Harry Heung-Yeung Shum](https://www.linkedin.com/in/harryshum/). I obtained my Ph.D. from the [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/publish/csen/index.html), [Tsinghua University](https://www.tsinghua.edu.cn/en/)<img class="inline-school-logo" src="{{ '/assets/img/school_logos/tsinghua-logo.svg' | relative_url }}" alt="" aria-hidden="true">, under the supervision of Prof. [Lei Zhang](https://www.leizhang.org/) (at [IDEA Research](https://www.linkedin.com/company/idearesearch/)), Prof. [Hang Su](https://www.suhangss.me/), and Prof. [Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml). I received my B.Eng. degree from the [Department of Industrial Engineering](http://www.ie.tsinghua.edu.cn/eng/), Tsinghua University, in 2020.
+
+
+<!--
 ---
 
 ### 🎯 Research Interests
 My research goal is to build **autonomous AI systems** for real-world applications, including **Embodied AI** and **Web Agents**. To achieve this, I explore new techniques including **Multimodal Foundations Models**, **Physical Intelligence**, and **Tool-use/Tool Creations**. I am also interested in interdisciplinary research that bridges the gap between AI and other scientific domains with the AI systems.
-<!-- My research lies at the intersection of **Multimodel Agents**, **Multimodal Learning**, **Computer Vision**, and **Physical Intelligence**. I am broadly interested in building **vision-language-action systems** that can *see, reason, and act* in open environments. -->
+My research lies at the intersection of **Multimodel Agents**, **Multimodal Learning**, **Computer Vision**, and **Physical Intelligence**. I am broadly interested in building **vision-language-action systems** that can *see, reason, and act* in open environments.
 
 ---
+-->
 
 <!-- ### 🚀 Work With Me
 
 Looking for collaborations and self-motivated interns excited about multimodal AI/agents research and their real-world applications. Contact me with my email: [slongliu86@gmail.com](slongliu86@gmail.com) and [shilong.liu@princeton.edu](shilong.liu@princeton.edu).
 
 --- -->
+
+---
 
 ### 🔬 Representative Works
 
@@ -75,8 +100,8 @@ Looking for collaborations and self-motivated interns excited about multimodal A
 ---
 
 ### 📈 Impacts
-- 16,000+ Google Scholar citations  
-- 30,000+ GitHub stars  
+- <span id="scholar-citations" data-fallback="18,000+">18,000+</span> Google Scholar citations  
+- <span id="github-stars" data-fallback="30,000+">30,000+</span> GitHub stars  
 - 4 papers selected as *Top 15 Most Influential Papers* by Paper Digest  
 
 ---
