@@ -41,7 +41,7 @@ social: true  # includes social icons at the bottom of the page
 
 <div class="join-announcement">
   <p>My research will focus primarily on computer vision, self-evolving agents, and world models for embodied AI.</p>
-  <p><strong>Prospective PhD students:</strong> I plan to recruit PhD students starting in Fall 2027. Please apply to the Columbia EE PhD program through the <a href="https://www.engineering.columbia.edu/admissions-aid/graduate-admissions/how-apply">official graduate admissions portal</a> by Dec 15 2026.</p>
+  <p><strong>Prospective PhD students:</strong> I plan to recruit PhD students starting in Fall 2027. Please apply to the Columbia EE PhD program through the <a href="https://www.engineering.columbia.edu/admissions-aid/graduate-admissions/how-apply">official graduate admissions portal</a> by Dec. 15, 2026. Admissions results are expected to be released in early 2027, and I will not be able to make early decisions before then.</p>
   <p><strong>Remote interns and postdocs:</strong> Please contact me at <a href="mailto:slongliu86@gmail.com">slongliu86@gmail.com</a> and <a href="mailto:shilong.liu@princeton.edu">shilong.liu@princeton.edu</a>, with the email subject line beginning with <code>[Internship Application]</code> or <code>[Postdoc Application]</code>. Apologies in advance if I am unable to reply to every email.</p>
 </div>
 
