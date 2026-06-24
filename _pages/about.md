@@ -27,7 +27,7 @@ social: true  # includes social icons at the bottom of the page
     </div>
     <div class="intro-card-line">
       <span class="intro-card-label">Incoming AP</span>
-      <span>Tenure-track Assistant Professor, <a href="https://www.ee.columbia.edu/electrical-engineering-department">Department of Electrical Engineering</a>, <a href="https://www.columbia.edu/">Columbia University</a><img class="inline-school-logo inline-school-logo-columbia" src="{{ '/assets/img/school_logos/columbia-crown.png' | relative_url }}" alt="" aria-hidden="true">, <a href="https://www.engineering.columbia.edu/">Fu Foundation School of Engineering and Applied Science</a>, Fall 2027</span>
+      <span>Incoming Tenure-track Assistant Professor, <a href="https://www.ee.columbia.edu/electrical-engineering-department">Department of Electrical Engineering</a>, <a href="https://www.columbia.edu/">Columbia University</a><img class="inline-school-logo inline-school-logo-columbia" src="{{ '/assets/img/school_logos/columbia-crown.png' | relative_url }}" alt="" aria-hidden="true">, <a href="https://www.engineering.columbia.edu/">Fu Foundation School of Engineering and Applied Science</a>, Fall 2027</span>
     </div>
     <div class="intro-card-line">
       <span class="intro-card-label">Email</span>
