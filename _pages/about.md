@@ -23,7 +23,7 @@ social: true  # includes social icons at the bottom of the page
     <div class="intro-card-name">Shilong Liu <span>刘世隆</span></div>
     <div class="intro-card-line">
       <span class="intro-card-label">Postdoc</span>
-      <span>Peretsman Scully Postdoctoral Research Fellow, <a href="https://ai.princeton.edu/ai-lab">Princeton AI Lab</a>, <a href="https://www.princeton.edu/">Princeton University</a><img class="inline-school-logo" src="{{ '/assets/img/school_logos/princeton-icon.png' | relative_url }}" alt="" aria-hidden="true"></span>
+      <span>Peretsman Scully Postdoctoral Research Fellow, <a href="https://ai.princeton.edu/ai-lab">Princeton AI Lab</a> (AI<sup>2</sup> Fellow), <a href="https://www.princeton.edu/">Princeton University</a><img class="inline-school-logo" src="{{ '/assets/img/school_logos/princeton-icon.png' | relative_url }}" alt="" aria-hidden="true"></span>
     </div>
     <div class="intro-card-line">
       <span class="intro-card-label">Incoming AP</span>
@@ -35,7 +35,7 @@ social: true  # includes social icons at the bottom of the page
     </div>
   </div>
   <div class="intro-card-photo">
-    <img src="{{ '/assets/img/me.jpg' | relative_url }}" alt="Shilong Liu">
+    <img src="{{ '/assets/img/222sl.jpg' | relative_url }}" alt="Shilong Liu">
   </div>
 </div>
 
@@ -45,7 +45,7 @@ social: true  # includes social icons at the bottom of the page
   <p><strong>Remote interns and postdocs:</strong> Please contact me at <a href="mailto:slongliu86@gmail.com">slongliu86@gmail.com</a> and <a href="mailto:shilong.liu@princeton.edu">shilong.liu@princeton.edu</a>, with the email subject line beginning with <code>[Internship Application]</code> or <code>[Postdoc Application]</code>. Apologies in advance if I am unable to reply to every email.</p>
 </div>
 
-Hi! This is Shilong Liu. I am a Peretsman Scully Postdoctoral Research Fellow at the [Princeton AI Lab](https://ai.princeton.edu/ai-lab), [Princeton University](https://www.princeton.edu/)<img class="inline-school-logo" src="{{ '/assets/img/school_logos/princeton-icon.png' | relative_url }}" alt="" aria-hidden="true">, under the supervision of [Prof. Mengdi Wang](https://ece.princeton.edu/people/mengdi-wang). I will join the [Department of Electrical Engineering](https://www.ee.columbia.edu/electrical-engineering-department) at [Columbia University](https://www.columbia.edu/)<img class="inline-school-logo inline-school-logo-columbia" src="{{ '/assets/img/school_logos/columbia-crown.png' | relative_url }}" alt="" aria-hidden="true">, [Fu Foundation School of Engineering and Applied Science](https://www.engineering.columbia.edu/), as a tenure-track Assistant Professor in Fall 2027.
+Hi! This is Shilong Liu. I am a Peretsman Scully Postdoctoral Research Fellow at the [Princeton AI Lab](https://ai.princeton.edu/ai-lab) (AI<sup>2</sup> Fellow), [Princeton University](https://www.princeton.edu/)<img class="inline-school-logo" src="{{ '/assets/img/school_logos/princeton-icon.png' | relative_url }}" alt="" aria-hidden="true">, under the supervision of [Prof. Mengdi Wang](https://ece.princeton.edu/people/mengdi-wang). I will join the [Department of Electrical Engineering](https://www.ee.columbia.edu/electrical-engineering-department) at [Columbia University](https://www.columbia.edu/)<img class="inline-school-logo inline-school-logo-columbia" src="{{ '/assets/img/school_logos/columbia-crown.png' | relative_url }}" alt="" aria-hidden="true">, [Fu Foundation School of Engineering and Applied Science](https://www.engineering.columbia.edu/), as a tenure-track Assistant Professor in Fall 2027.
 
 Before joining Princeton, I worked and interned at leading research labs, including [Bytedance Seed](https://seed.bytedance.com/en/), [NVIDIA Research](https://research.nvidia.com/), [Microsoft Research in Redmond](https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/), and [IDEA Research](https://idea.edu.cn/), working with amazing mentors and researchers such as [Dr. Zhiding Yu](https://chrisding.github.io/), [Dr. Chunyuan Li](https://chunyuan.li/), [Dr. Guilin Liu](https://liuguilin1225.github.io/), [Dr. Hao Cheng](https://sites.google.com/site/hcheng2site), [Dr. Jianwei Yang](https://jwyang.github.io/), and [Prof. Harry Heung-Yeung Shum](https://www.linkedin.com/in/harryshum/). I obtained my Ph.D. from the [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/publish/csen/index.html), [Tsinghua University](https://www.tsinghua.edu.cn/en/)<img class="inline-school-logo" src="{{ '/assets/img/school_logos/tsinghua-logo.svg' | relative_url }}" alt="" aria-hidden="true">, under the supervision of Prof. [Lei Zhang](https://www.leizhang.org/) (at [IDEA Research](https://www.linkedin.com/company/idearesearch/)), Prof. [Hang Su](https://www.suhangss.me/), and Prof. [Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml). I received my B.Eng. degree from the [Department of Industrial Engineering](http://www.ie.tsinghua.edu.cn/eng/), Tsinghua University, in 2020.
 
@@ -88,14 +88,14 @@ Looking for collaborations and self-motivated interns excited about multimodal A
   We proposed [Web World Models](https://arxiv.org/abs/2512.23676), which decouple world states from content through web code, enabling the creation of unlimited, personalized, and controllable web pages. I contributed to the first version of [Vidu](https://arxiv.org/abs/2405.04233) as well, a general video generation model that has since grown into [a leading video-generation company](https://www.vidu.com/).
   
 
----
+<!-- ---
 
 ### 🏆 Awards & Recognitions
 - **WAIC Yunfan Award – Rising Star**, 2024 (15 people/year)  
 - **KAUST AI Rising Star**, 2024 (Top 15%)  
 - **CCF-CV Academic Emerging Scholar Award**, 2023 (3 people/year)  
 - **First Prize of Innovation 84 Scholarship, Tsinghua University** 2024.
-- **Outstanding Graduate/Outstanding Thesis, Tsinghua University**, 2025.
+- **Outstanding Graduate/Outstanding Thesis, Tsinghua University**, 2025. -->
 
 ---
 
@@ -106,7 +106,7 @@ Looking for collaborations and self-motivated interns excited about multimodal A
 
 ---
 
-If you are interested in multimodal AI/agents research and their real-world applications, feel free to reach out at:  
+If you are interested in multimodal AI/agents/robotics research and their real-world applications, feel free to reach out at:  
 📧 slongliu86 [AT] gmail.com or shilong.liu [AT] princeton.edu   
 *(Note: the Tsinghua email is deprecated; please use Gmail or Princeton email instead.)*
 
