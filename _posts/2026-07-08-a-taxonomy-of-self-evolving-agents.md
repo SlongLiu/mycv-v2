@@ -6,6 +6,14 @@ description: A taxonomy for self-evolving agents across artifact iterative optim
 tags: agents llm self-evolving
 categories: research
 related_posts: false
+_styles: |
+  #markdown-content img {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    margin: 1.5rem auto;
+  }
 ---
 
 Read the X article: [https://x.com/atasteoff/status/2074800880017342665](https://x.com/atasteoff/status/2074800880017342665)
@@ -19,7 +27,7 @@ Self-evolving agents are becoming popular. [Hermes Agent](https://hermes-agent.n
 
 Models, harness, and artifacts are three key factors in a self-evolving system. Models, usually large language models (LLMs), are the brains that respond to prompts. Harness includes loop designs, memory, tools, and other surrounding components. It turns models into agents. Hence there is a famous equation:
 
-$Agent = Model + Harness$
+\(Agent = Model + Harness\)
 
 Artifacts are mentioned less often. I use the term "artifact" for the outputs produced by agents, such as kernel algorithms discovered by agents, papers and findings from auto-researchers, or new robot policies from robotic self-evolving systems.
 
