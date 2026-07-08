@@ -9,10 +9,20 @@ related_posts: false
 _styles: |
   #markdown-content img {
     display: block;
-    width: 100%;
-    max-width: 100%;
+    width: auto;
+    max-width: min(100%, 760px);
     height: auto;
-    margin: 1.5rem auto;
+    max-height: 520px;
+    margin: 1.25rem auto 1.75rem;
+    object-fit: contain;
+  }
+  #markdown-content .blog-equation {
+    text-align: center;
+    font-size: 1.1rem;
+    margin: 1.25rem 0;
+  }
+  #markdown-content a {
+    overflow-wrap: anywhere;
   }
 ---
 
@@ -27,7 +37,7 @@ Self-evolving agents are becoming popular. [Hermes Agent](https://hermes-agent.n
 
 Models, harness, and artifacts are three key factors in a self-evolving system. Models, usually large language models (LLMs), are the brains that respond to prompts. Harness includes loop designs, memory, tools, and other surrounding components. It turns models into agents. Hence there is a famous equation:
 
-\(Agent = Model + Harness\)
+<div class="blog-equation">Agent = Model + Harness</div>
 
 Artifacts are mentioned less often. I use the term "artifact" for the outputs produced by agents, such as kernel algorithms discovered by agents, papers and findings from auto-researchers, or new robot policies from robotic self-evolving systems.
 
