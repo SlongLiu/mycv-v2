@@ -14,7 +14,7 @@ permalink: /
 #   #   <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
@@ -44,6 +44,23 @@ social: true  # includes social icons at the bottom of the page
   <p><strong>Prospective PhD students:</strong> I plan to recruit PhD students starting in Fall 2027. Please apply to the Columbia EE PhD program through the <a href="https://www.engineering.columbia.edu/admissions-aid/graduate-admissions/how-apply">official graduate admissions portal</a> by Dec. 15, 2026. Admissions results are expected to be released in early 2027, and I will not be able to make early decisions before then.</p>
   <p><strong><s>Remote interns</s> and postdocs:</strong> At the moment, I do not have bandwidth to take on additional interns, but you are welcome to schedule a meeting with me if you are interested in discussing research or career development. Please contact me at <a href="mailto:slongliu86@gmail.com">slongliu86@gmail.com</a> and <a href="mailto:shilong.liu@princeton.edu">shilong.liu@princeton.edu</a>, with the email subject line beginning with <s><code>[Internship Application]</code></s> or <code>[Postdoc Application]</code>.  Apologies in advance if I am unable to reply to every email.</p>
 </div>
+
+{% assign latest_blog_post = site.posts | first %}
+{% if latest_blog_post %}
+<div class="homepage-blog-card">
+  <div class="homepage-blog-card-header">
+    <h2><a href="{{ '/blog/' | relative_url }}">Blog</a></h2>
+    <a class="homepage-blog-card-all" href="{{ '/blog/' | relative_url }}">All posts</a>
+  </div>
+  <a class="homepage-blog-card-post" href="{{ latest_blog_post.url | relative_url }}">
+    <span class="homepage-blog-card-date">{{ latest_blog_post.date | date: "%B %-d, %Y" }}</span>
+    <span class="homepage-blog-card-title">{{ latest_blog_post.title }}</span>
+    {% if latest_blog_post.description %}
+    <span class="homepage-blog-card-description">{{ latest_blog_post.description }}</span>
+    {% endif %}
+  </a>
+</div>
+{% endif %}
 
 Hi! This is Shilong Liu. I am a Peretsman Scully Postdoctoral Research Fellow at the [Princeton AI Lab](https://ai.princeton.edu/ai-lab) (AI<sup>2</sup> Fellow), [Princeton University](https://www.princeton.edu/)<img class="inline-school-logo" src="{{ '/assets/img/school_logos/princeton-icon.png' | relative_url }}" alt="" aria-hidden="true">, under the supervision of [Prof. Mengdi Wang](https://ece.princeton.edu/people/mengdi-wang). I will join the [Department of Electrical Engineering](https://www.ee.columbia.edu/electrical-engineering-department) at [Columbia University](https://www.columbia.edu/)<img class="inline-school-logo inline-school-logo-columbia" src="{{ '/assets/img/school_logos/columbia-crown.png' | relative_url }}" alt="" aria-hidden="true">, [Fu Foundation School of Engineering and Applied Science](https://www.engineering.columbia.edu/), as a tenure-track Assistant Professor in Fall 2027.
 
