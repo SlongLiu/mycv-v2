@@ -188,3 +188,15 @@ What evolves? What feedback drives it? Where does the loop close?
 If the loop closes on benchmarks, we get stronger benchmark solvers. If it closes on code, we get better software. If it closes on science and engineering, we may get better discoveries. If it closes on the physical world, agents may become a new way to build and improve real systems.
 
 The world is still the hardest environment. It is also the place where self-evolving agents matter most.
+
+## BibTeX
+
+```bibtex
+@misc{liu2026taxonomy,
+  title  = {A Taxonomy of Self-evolving Agents},
+  author = {Liu, Shilong},
+  year   = {2026},
+  month  = jul,
+  url    = {https://lsl.zone/blog/2026/a-taxonomy-of-self-evolving-agents/}
+}
+```
