@@ -35,7 +35,7 @@ social: true  # includes social icons at the bottom of the page
     </div>
   </div>
   <div class="intro-card-photo">
-    <img src="{{ '/assets/img/profile-polo-v2.png' | relative_url }}" width="1086" height="1448" alt="Shilong Liu">
+    <img src="{{ '/assets/img/profile-polo-v3.png' | relative_url }}" width="1086" height="1448" alt="Shilong Liu">
   </div>
 </div>
 
