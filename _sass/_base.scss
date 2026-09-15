@@ -169,10 +169,13 @@ blockquote {
 
 .intro-card-photo {
   justify-self: end;
+  width: 100%;
+  max-width: 160px;
+  min-width: 0;
 
   img {
     display: block;
-    width: 160px;
+    width: 100%;
     height: auto;
     border-radius: 8px;
     box-shadow: 0 10px 24px rgba(0, 0, 0, 0.18);
@@ -297,10 +300,7 @@ html[data-theme='dark'] {
   .intro-card-photo {
     justify-self: start;
     order: -1;
-
-    img {
-      width: 128px;
-    }
+    max-width: 128px;
   }
 
   .intro-card-line {
