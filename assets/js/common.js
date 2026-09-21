@@ -54,7 +54,8 @@ $(document).ready(function() {
       const bio = document.getElementById('short-bio-text');
       const status = document.getElementById('short-bio-status');
       try {
-        await navigator.clipboard.writeText(bio.textContent.trim());
+        const text = Array.from(bio.querySelectorAll('p'), paragraph => paragraph.textContent.trim()).join('\n\n');
+        await navigator.clipboard.writeText(text);
         status.textContent = 'Copied!';
       } catch (error) {
         const range = document.createRange();
