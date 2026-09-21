@@ -67,6 +67,13 @@ Hi! This is Shilong Liu. I am a Peretsman Scully Postdoctoral Research Fellow at
 Before joining Princeton, I worked and interned at leading research labs, including [Bytedance Seed](https://seed.bytedance.com/en/), [NVIDIA Research](https://research.nvidia.com/), [Microsoft Research in Redmond](https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/), and [IDEA Research](https://idea.edu.cn/), working with amazing mentors and researchers such as [Dr. Zhiding Yu](https://chrisding.github.io/), [Dr. Chunyuan Li](https://chunyuan.li/), [Dr. Guilin Liu](https://liuguilin1225.github.io/), [Dr. Hao Cheng](https://sites.google.com/site/hcheng2site), [Dr. Jianwei Yang](https://jwyang.github.io/), and [Prof. Harry Heung-Yeung Shum](https://www.linkedin.com/in/harryshum/). I obtained my Ph.D. from the [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/publish/csen/index.html), [Tsinghua University](https://www.tsinghua.edu.cn/en/)<img class="inline-school-logo" src="{{ '/assets/img/school_logos/tsinghua-logo.svg' | relative_url }}" alt="" aria-hidden="true">, under the supervision of Prof. [Lei Zhang](https://www.leizhang.org/) (at [IDEA Research](https://www.linkedin.com/company/idearesearch/)), Prof. [Hang Su](https://www.suhangss.me/), and Prof. [Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml). I received my B.Eng. degree from the [Department of Industrial Engineering](http://www.ie.tsinghua.edu.cn/eng/), Tsinghua University, in 2020.
 
 
+<details class="short-bio">
+  <summary>Short Bio <span class="short-bio-hint">(click to expand)</span></summary>
+  <p id="short-bio-text">Shilong Liu is a Peretsman Scully Postdoctoral Research Fellow at the Princeton AI Lab, working with Prof. Mengdi Wang. He will join Columbia University’s Department of Electrical Engineering as a tenure-track Assistant Professor in Fall 2027. His research focuses on computer vision, self-evolving agents, and world models for embodied AI. He received his Ph.D. in Computer Science and Technology from Tsinghua University, advised by Profs. Lei Zhang, Hang Su, and Jun Zhu, and his B.Eng. from Tsinghua University in 2020. He has also worked and interned at ByteDance Seed, NVIDIA Research, Microsoft Research, and IDEA Research.</p>
+  <button type="button" class="short-bio-copy" aria-label="Copy short bio">Copy</button>
+  <span id="short-bio-status" role="status" aria-live="polite"></span>
+</details>
+
 <!--
 ---
 

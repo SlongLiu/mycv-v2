@@ -47,6 +47,25 @@ $(document).ready(function() {
   });
 
   updateImpactMetrics();
+
+  const bioCopyButton = document.querySelector('.short-bio-copy');
+  if (bioCopyButton) {
+    bioCopyButton.addEventListener('click', async function() {
+      const bio = document.getElementById('short-bio-text');
+      const status = document.getElementById('short-bio-status');
+      try {
+        await navigator.clipboard.writeText(bio.textContent.trim());
+        status.textContent = 'Copied!';
+      } catch (error) {
+        const range = document.createRange();
+        range.selectNodeContents(bio);
+        const selection = window.getSelection();
+        selection.removeAllRanges();
+        selection.addRange(range);
+        status.textContent = 'Text selected. Press Ctrl+C or ⌘C to copy.';
+      }
+    });
+  }
 });
 
 function formatCompactCount(value) {

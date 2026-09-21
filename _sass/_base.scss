@@ -112,6 +112,46 @@ blockquote {
   }
 }
 
+.short-bio {
+  margin: 1rem 0 1.5rem;
+  padding: 0.85rem 1rem;
+  border: 1px solid var(--global-divider-color);
+  border-radius: 8px;
+
+  summary {
+    cursor: pointer;
+    color: var(--global-theme-color);
+    font-weight: 600;
+  }
+
+  .short-bio-hint {
+    font-size: 0.85em;
+    font-weight: normal;
+  }
+
+  &[open] .short-bio-hint {
+    display: none;
+  }
+
+  p {
+    margin: 1rem 0;
+  }
+
+  .short-bio-copy {
+    padding: 0.25rem 0.75rem;
+    border: 1px solid currentColor;
+    border-radius: 4px;
+    background: transparent;
+    color: var(--global-theme-color);
+    cursor: pointer;
+  }
+
+  #short-bio-status {
+    margin-left: 0.5rem;
+    font-size: 0.85em;
+  }
+}
+
 .intro-card {
   display: grid;
   grid-template-columns: minmax(0, 1fr) 160px;
