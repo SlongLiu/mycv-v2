@@ -31,7 +31,7 @@ social: true  # includes social icons at the bottom of the page
     </div>
     <div class="intro-card-line">
       <span class="intro-card-label">Email</span>
-      <span><a href="mailto:slongliu86@gmail.com">slongliu86@gmail.com</a></span>
+      <span><a href="mailto:sl6222@columbia.edu">sl6222@columbia.edu</a></span>
     </div>
   </div>
   <div class="intro-card-photo">
@@ -40,10 +40,10 @@ social: true  # includes social icons at the bottom of the page
 </div>
 
 <div class="join-announcement">
-  <p><strong>Email update:</strong> My Princeton email is no longer available. Please use <a href="mailto:slongliu86@gmail.com">slongliu86@gmail.com</a> for all future discussions.</p>
+  <p><strong>Email update:</strong> My Princeton email is no longer available. Please use <a href="mailto:sl6222@columbia.edu">sl6222@columbia.edu</a> for all future discussions.</p>
   <p>My research will focus primarily on computer vision, self-evolving agents, and world models for embodied AI.</p>
   <p><strong>Prospective PhD students:</strong> I plan to recruit PhD students starting in Fall 2027. Please apply to the Columbia EE PhD program through the <a href="https://www.engineering.columbia.edu/admissions-aid/graduate-admissions/how-apply">official graduate admissions portal</a> by Dec. 15, 2026. Admissions results are expected to be released in early 2027, and I will not be able to make early decisions before then.</p>
-  <p><strong><s>Remote interns</s> and postdocs:</strong> At the moment, I do not have bandwidth to take on additional interns, but you are welcome to schedule a meeting with me if you are interested in discussing research or career development. Please contact me at <a href="mailto:slongliu86@gmail.com">slongliu86@gmail.com</a>, with the email subject line beginning with <s><code>[Internship Application]</code></s> or <code>[Postdoc Application]</code>.  Apologies in advance if I am unable to reply to every email.</p>
+  <p><strong><s>Remote interns</s> and postdocs:</strong> At the moment, I do not have bandwidth to take on additional interns, but you are welcome to schedule a meeting with me if you are interested in discussing research or career development. Please contact me at <a href="mailto:sl6222@columbia.edu">sl6222@columbia.edu</a>, with the email subject line beginning with <s><code>[Internship Application]</code></s> or <code>[Postdoc Application]</code>.  Apologies in advance if I am unable to reply to every email.</p>
 </div>
 
 {% assign latest_blog_post = site.posts | first %}
@@ -90,7 +90,7 @@ My research lies at the intersection of **Multimodel Agents**, **Multimodal Lear
 
 <!-- ### 🚀 Work With Me
 
-Looking for collaborations and self-motivated interns excited about multimodal AI/agents research and their real-world applications. Contact me with my email: [slongliu86@gmail.com](mailto:slongliu86@gmail.com).
+Looking for collaborations and self-motivated interns excited about multimodal AI/agents research and their real-world applications. Contact me with my email: [sl6222@columbia.edu](mailto:sl6222@columbia.edu).
 
 --- -->
 
@@ -135,8 +135,8 @@ Looking for collaborations and self-motivated interns excited about multimodal A
 ---
 
 If you are interested in multimodal AI/agents/robotics research and their real-world applications, feel free to reach out at:  
-📧 [slongliu86@gmail.com](mailto:slongliu86@gmail.com)
+📧 [sl6222@columbia.edu](mailto:sl6222@columbia.edu)
 
-*(My Princeton email is no longer available, and my Tsinghua email is deprecated. Please use Gmail for all future discussions.)*
+*(My Princeton email is no longer available, and my Tsinghua email is deprecated. Please use my Columbia email for all future discussions.)*
 
 [Google Scholar](https://scholar.google.com/citations?user=nkSVY3MAAAAJ&hl=en) \| [GitHub](https://github.com/SlongLiu) \| [LinkedIn](https://www.linkedin.com/in/shilong-liu/) \| [X/Twitter](https://twitter.com/atasteoff) \| [Zhihu 知乎](https://www.zhihu.com/people/3089892) \| [RedNote 小红书](https://xhslink.com/m/4kbbZGbxlvP) \| [CV (01-2026)]({{ '/assets/pdf/Shilong_CV_01_2026.pdf' | relative_url }})
